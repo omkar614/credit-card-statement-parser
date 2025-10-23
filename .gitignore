@@ -1,0 +1,50 @@
+# ...existing code...
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+.Python
+
+# Virtual environments
+env/
+venv/
+.venv/
+pip-wheel-metadata/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Test / type-check caches
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# Coverage / reports / logs
+.coverage
+coverage.xml
+*.log
+
+# Database / local data
+*.sqlite3
+*.db
+
+# Generated outputs from this project
+statement_output.json
+summary_report.pdf
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Environment files
+.env
+
+# Misc
+.ropeproject/
