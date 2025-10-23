@@ -91,3 +91,7 @@ def extract_transactions(file_path):
         # This can happen if Ghostscript is not installed
         print("Please ensure you have Ghostscript installed on your system.")
         return []
+    
+
+
+    
